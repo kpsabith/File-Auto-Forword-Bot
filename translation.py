@@ -13,7 +13,7 @@ More details /help</i>"""
 <b>• Then send any message In your personal telegram channel</b>
 <b>• Then use /run command in your bot</b>
 
-<b>@Mo_Tech_YT</b>
+<b>@World_MoViezZ</b>
 
 <b><u>Available Command</b></u>
 
@@ -24,7 +24,7 @@ More details /help</i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Auto File Forword Bot</code>
-<b>Credit :</b> <cod>MRK-YT</code>
+<b>Credit :</b> <cod>skp_kp</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
