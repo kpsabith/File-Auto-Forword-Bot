@@ -13,11 +13,11 @@ async def stop_button(c: Client, cb: CallbackQuery):
     await cb.message.delete()
     await cb.answer()
     msg = await c.send_message(
-        text="<i>Trying To Stoping..... @Mo_Tech_YT</i>",
+        text="<i>Trying To Stoping..... @World_MoViezZ</i>",
         chat_id=cb.message.chat.id
     )
     await asyncio.sleep(5)
-    await msg.edit("<i>File Forword Stoped Successfully 👍 @Mo_Tech_YT</i>")
+    await msg.edit("<i>File Forword Stoped Successfully 👍 @World_MovieZz</i>")
     os.execl(sys.executable, sys.executable, *sys.argv)
     
 @Client.on_callback_query(filters.regex(r'^close_btn$'))
