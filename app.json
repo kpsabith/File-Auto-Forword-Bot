@@ -10,8 +10,8 @@
     "bot"
   ],
   "success_url": "https://t.me/MO_tech_yt",
-  "website": "https://github.com/MRK-YT/File-Auto-Forword-Bot",
-  "repository": "https://github.com/MRK-YT/File-Auto-Forword-Bot",
+  "website": "https://github.com/kpsabith/File-Auto-Forword-Bot",
+  "repository": "https://github.com/kpsabith/File-Auto-Forword-Bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
